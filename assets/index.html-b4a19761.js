@@ -1,0 +1,1 @@
+import{_ as e,X as t,Y as n,a1 as c}from"./framework-ea1ea870.js";const o={},_=c("p",null,"coding...",-1),s=[_];function a(r,l){return t(),n("div",null,s)}const i=e(o,[["render",a],["__file","index.html.vue"]]);export{i as default};
